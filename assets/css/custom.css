@@ -1,0 +1,38 @@
+.pr-1 span{
+    padding-right: 5px !important;
+}
+.pr-1{
+    margin-bottom: 5px;
+}
+.testimonials-profile {
+    width: 140px;
+    height: 140px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    margin: 0 auto;
+    border: 2px solid #fff;
+    margin-bottom: 20px;
+}
+.testimonials-content h2{
+    font-size: 20px;
+    color: #fff;
+}
+.testimonials-content p{
+    font-size: 14px;
+}
+#about-bg-profile{
+    background:url("../img/MyPic.jpg") center no-repeat;
+    background-size: cover;
+}
+#bg-abt{
+    background:url("../img/steackhous.jpg") center no-repeat;
+    background-size: cover;
+}
+.bg-work, .bg-work-2 {
+    background: url("../img/port/1.jpg") center no-repeat;
+    background-size: cover !important;
+}
+#theme-bg-three{
+    background-size: cover !important;
+}
